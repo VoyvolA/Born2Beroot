@@ -1,5 +1,4 @@
 # Born2Beroot
-# Born2Beroot
 
 👨‍💻Sanal makina nasıl çalışır ?
 
